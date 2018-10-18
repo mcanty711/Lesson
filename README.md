@@ -1,1 +1,1 @@
-This showcase HTML, CSS, Javascript & PHP
+This showcase React
